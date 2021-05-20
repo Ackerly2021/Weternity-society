@@ -9,8 +9,6 @@ import "./SafeMath.sol";
  *
  * @dev Implementation of the basic standard token.
  * https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
- * Originally based on code by FirstBlood:
- * https://github.com/Firstbloodio/token/blob/master/smart_contract/FirstBloodToken.sol
  *
  * This implementation emits additional Approval events, allowing applications to reconstruct the allowance status for
  * all accounts just by listening to said events. Note that this isn't required by the specification, and other
