@@ -1,0 +1,10 @@
+    "name": "WE society",
+    "website": "https://www.weternity.io/",
+    "description": "WE society is DAO token issued by WE project on Binance smart chain.In WE we trust!",
+    "explorer": "https://bscscan.com/token/0x47e70d1dd50592c1d02ec01e27e297b4fdb934dd",
+    "type": "BEP20",
+    "symbol": "WE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x47e70d1dd50592c1d02ec01e27e297b4fdb934dd"
+}
